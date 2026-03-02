@@ -52,6 +52,8 @@ Kindly note that the examples and demo's full functionality depends on the publi
 
 ## 🖥️ Usage & Notes
 
+For a Chinese quickstart onboarding path, see [doc/GETTING_STARTED_CN.md](doc/GETTING_STARTED_CN.md).
+
 ### Installation Options
 
 #### Option 1: Using VS Code Dev Containers (Recommended)
